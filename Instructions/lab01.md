@@ -1,6 +1,8 @@
 # Lab: Building a web application on Azure platform as a service offerings
 # Student lab answer key
 
+adding stuff here
+
 ## Microsoft Azure user interface
 
 Given the dynamic nature of Microsoft cloud tools, you might experience Azure UI changes after the development of this training content. These changes might cause the lab instructions and lab steps to not match up.
